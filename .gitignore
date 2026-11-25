@@ -1,0 +1,4 @@
+node_modules/
+.env
+vendor/
+all-project/config/database.php
